@@ -1,0 +1,6 @@
+#port
+server:
+  port: 8081
+#loggin
+loggin:
+  config: classpath:log4j2.xml
